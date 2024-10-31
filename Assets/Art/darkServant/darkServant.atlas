@@ -1,0 +1,83 @@
+
+darkServant.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dark/Layer_12
+  rotate: false
+  xy: 1, 145
+  size: 234, 59
+  orig: 234, 59
+  offset: 0, 0
+  index: -1
+dark/Layer_8
+  rotate: false
+  xy: 196, 108
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+dark/Layer_8_copy
+  rotate: false
+  xy: 196, 76
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+dark/Layer_11
+  rotate: false
+  xy: 115, 257
+  size: 111, 49
+  orig: 111, 49
+  offset: 0, 0
+  index: -1
+dark/Layer_10_copy
+  rotate: false
+  xy: 1, 257
+  size: 112, 52
+  orig: 112, 52
+  offset: 0, 0
+  index: -1
+dark/Layer_6
+  rotate: false
+  xy: 145, 1
+  size: 99, 73
+  orig: 99, 73
+  offset: 0, 0
+  index: -1
+dark/Layer_15
+  rotate: false
+  xy: 1, 206
+  size: 238, 49
+  orig: 238, 49
+  offset: 0, 0
+  index: -1
+dark/Layer_1
+  rotate: false
+  xy: 145, 76
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+dark/Layer_4
+  rotate: false
+  xy: 150, 308
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+dark/Layer_4_copy
+  rotate: false
+  xy: 115, 308
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+dark/Layer_16
+  rotate: false
+  xy: 1, 1
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
