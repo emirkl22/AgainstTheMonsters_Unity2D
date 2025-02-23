@@ -2,7 +2,7 @@
  This project presents a mobile 2D game developed using the Unity Game Engine. The game is designed as a topdown shooter where the main objective is to shoot and destroy enemies and enemy walls in each level. After destroying enemies and finishing the levels, the player earns gold and can spend it in the market by buying new type of bullets. 
  Dotween animation engine and unity ad mediation systems are used in this project.
 
-[![Watch the video](https://img.youtube.com/vi/Hh2NfZz4TrU/maxresdefault.jpg)](https://youtu.be/Hh2NfZz4TrU)
+[![YouTube](http://i.ytimg.com/vi/Hh2NfZz4TrU/hqdefault.jpg)](https://www.youtube.com/watch?v=Hh2NfZz4TrU)
 
 ### [Watch this video on YouTube](https://youtu.be/Hh2NfZz4TrU)
 ### [Against The Monsters Gameplay Video](https://youtu.be/Hh2NfZz4TrU)
